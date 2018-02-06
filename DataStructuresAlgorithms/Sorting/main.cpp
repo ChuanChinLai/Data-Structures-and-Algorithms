@@ -1,6 +1,9 @@
 #include "BubbleSort.h"
 #include "SelectionSort.h"
 #include "InsertSort.h"
+#include "MergeSort.h"
+#include "QSort.h"
+
 #include "Tool.h"
 
 #include <stdio.h>
@@ -41,7 +44,16 @@ int main(int argc, char* argv[])
 	T.Update();
 	std::cout << "I" << std::endl;
 
-	std::cout << "sort" << std::endl;
+	MergeSort(mySort);
+	SortingTest(mySort, STLSort);
+	T.Update();
+	std::cout << "M" << std::endl;
+
+
+	QSort(mySort);
+	SortingTest(mySort, STLSort);
+	T.Update();
+	std::cout << "Q" << std::endl;
 
 
 	system("Pause");
