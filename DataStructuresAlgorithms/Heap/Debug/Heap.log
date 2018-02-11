@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\chuan-chin lai\desktop\data-structures-and-algorithms\datastructuresalgorithms\heap\heap.h(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\chuan-chin lai\desktop\data-structures-and-algorithms\datastructuresalgorithms\heap\heap.h(45): warning C4018: '<': signed/unsigned mismatch
+  Heap.vcxproj -> C:\Users\Chuan-Chin Lai\Desktop\Data-Structures-and-Algorithms\DataStructuresAlgorithms\Debug\Heap.exe

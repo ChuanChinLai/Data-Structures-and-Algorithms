@@ -1,7 +1,1 @@
-﻿  main.cpp
-c:\users\u1070737\desktop\data-structures-and-algorithms\datastructuresalgorithms\sorting\bubblesort.h(8): warning C4018: '<': signed/unsigned mismatch
-c:\users\u1070737\desktop\data-structures-and-algorithms\datastructuresalgorithms\sorting\bubblesort.h(10): warning C4018: '<': signed/unsigned mismatch
-c:\users\u1070737\desktop\data-structures-and-algorithms\datastructuresalgorithms\sorting\selectionsort.h(7): warning C4018: '<': signed/unsigned mismatch
-c:\users\u1070737\desktop\data-structures-and-algorithms\datastructuresalgorithms\sorting\selectionsort.h(11): warning C4018: '<': signed/unsigned mismatch
-c:\users\u1070737\desktop\data-structures-and-algorithms\datastructuresalgorithms\sorting\insertsort.h(8): warning C4018: '<': signed/unsigned mismatch
-  Sorting.vcxproj -> C:\Users\u1070737\Desktop\Data-Structures-and-Algorithms\DataStructuresAlgorithms\Debug\Sorting.exe
+﻿
